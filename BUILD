@@ -1,0 +1,1 @@
+# BUILD file is intentionally empty (rules_docker expects root level build file)
